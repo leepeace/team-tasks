@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "로그인 페이지 UI 개선",
+    "description": "사용자 경험 향상을 위해 로그인 페이지 디자인을 개선합니다.",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "김철수",
+    "dueDate": "2026-05-15",
+    "createdAt": "2026-05-01T09:00:00.000Z",
+    "updatedAt": "2026-05-01T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "API 성능 최적화",
+    "description": "응답 시간을 50% 개선하기 위한 쿼리 최적화 및 캐싱 적용",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "이영희",
+    "dueDate": "2026-05-10",
+    "createdAt": "2026-05-02T09:00:00.000Z",
+    "updatedAt": "2026-05-03T14:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "단위 테스트 작성",
+    "description": "주요 비즈니스 로직에 대한 단위 테스트 커버리지 80% 달성",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "박민준",
+    "dueDate": "2026-05-20",
+    "createdAt": "2026-05-02T10:00:00.000Z",
+    "updatedAt": "2026-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "배포 파이프라인 구축",
+    "description": "CI/CD 파이프라인 설정 및 자동 배포 환경 구성",
+    "status": "done",
+    "priority": "high",
+    "assignee": "최서연",
+    "dueDate": "2026-05-05",
+    "createdAt": "2026-04-28T09:00:00.000Z",
+    "updatedAt": "2026-05-05T17:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "모바일 반응형 레이아웃",
+    "description": "모바일 기기에서의 사용성 개선을 위한 반응형 디자인 적용",
+    "status": "in-progress",
+    "priority": "medium",
+    "assignee": "김철수",
+    "dueDate": "2026-05-18",
+    "createdAt": "2026-05-03T11:00:00.000Z",
+    "updatedAt": "2026-05-04T09:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "title": "문서화 작업",
+    "description": "API 문서 및 개발자 가이드 업데이트",
+    "status": "todo",
+    "priority": "low",
+    "assignee": "이영희",
+    "dueDate": "2026-05-25",
+    "createdAt": "2026-05-04T14:00:00.000Z",
+    "updatedAt": "2026-05-04T14:00:00.000Z"
+  }
+]
